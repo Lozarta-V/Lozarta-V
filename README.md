@@ -27,4 +27,5 @@ Apiring Data Analyst with a keen interest in research, analysis, and using data 
 - LinkedIn: https://www.linkedin.com/in/lozarta-veizaj-8171381b4/
 
 # Thank you for visiting!
+# More Projects Coming Soon! 🚀
 
