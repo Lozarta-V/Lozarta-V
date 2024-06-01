@@ -15,6 +15,7 @@ Apiring Data Analyst with a keen interest in research, analysis, and using data 
 [![Azure](https://img.shields.io/badge/-Azure-blue)](https://azure.microsoft.com/en-gb/)
 [![Python](https://img.shields.io/badge/-Python-lightgrey)](https://www.python.org/)
 
+
 ## Skills
 - Data Cleaning & Manipulation
 - Data Analysis & Visualisation
@@ -22,9 +23,10 @@ Apiring Data Analyst with a keen interest in research, analysis, and using data 
 - Statistical Analysis
 - Stakeholder Communication
 
-
-## Get in Touch. 
-LinkedIn: [https://www.linkedin.com/in/lozarta-veizaj-8171381b4/](https://www.linkedin.com/in/lozarta-veizaj-8171381b4/)
+## Get in Touch
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/lozarta-veizaj-8171381b4/](https://www.linkedin.com/in/lozarta-veizaj-8171381b4/)
 
 Thank you for visiting! 
 ![image](https://github.com/Lozarta-V/Lozarta-V/assets/171447634/26a22e55-e34b-4d71-872a-b3eec670d79d)
+# Thank you for visiting! 🇬🇧
+
