@@ -1,4 +1,4 @@
-# Hi there, I'm Lozarta 
+# Hi there, my name is Lozarta 
 
 Apiring Data Analyst with a keen interest in research, analysis, and using data as a powerful tool for optimising processes🌐
 
