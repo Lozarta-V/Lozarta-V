@@ -4,7 +4,7 @@ Apiring Data Analyst with a keen interest in research, analysis, and using data 
 
 - 🔬 Background in supporting life sciences research 
 - 💡 Strong analytical skills, attention to detail, and critical thinking
-- 📚 Commited to continous learning and professional development
+- 📚 Committed to continous learning and professional development
   
 ## Tools
 [![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-blue)](https://www.microsoft.com/en-gb/microsoft-365/excel)
