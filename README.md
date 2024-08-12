@@ -3,7 +3,7 @@
 Apiring Data Analyst with a keen interest in research, analysis, and using data as a powerful tool for optimising processes🌐
 
 - 🔬 Background in supporting life sciences research 
-- 💡 Strong analytical skills, attention to detail, and critical thinking
+- 💡 Detail-orientated with strong analytical and critical thinking skills
 - 📚 Committed to continous learning and professional development
   
 ## Tools
