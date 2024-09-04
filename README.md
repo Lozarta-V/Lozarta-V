@@ -1,6 +1,6 @@
 # Hi there, I am Lozarta 
 
-Apiring Data Analyst with a keen interest in research, analysis, and using data as a powerful tool for optimising processes🌐
+Data Analyst with a keen interest in research, analysis, and using data as a powerful tool for optimising processes🌐
 
 - 🔬 Background in supporting life sciences research 
 - 💡 Detail-orientated with strong analytical and critical thinking skills
